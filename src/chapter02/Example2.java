@@ -2,7 +2,7 @@ package chapter02;
 
 
 /**
- * p26
+ * p26 
  * @author marsamoeba
  *
  */
