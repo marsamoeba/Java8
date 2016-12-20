@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p52 数组  数组的索引是从0开始的
+ * p52 数组  数组的索引是从0开始的 
  * @author marsamoeba
  *
  */
