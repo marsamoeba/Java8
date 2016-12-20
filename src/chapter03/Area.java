@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p39 使用double变量计算园的面积
+ * p39 使用double变量计算园的面积 
  * @author marsamoeba
  *
  */
