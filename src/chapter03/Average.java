@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p54 求数组平均值
+ * p54 求数组平均值 
  * @author marsamoeba
  *
  */
