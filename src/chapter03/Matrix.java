@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p56 二维数组 矩阵
+ * p56 二维数组 矩阵 
  * @author marsamoeba
  *
  */
