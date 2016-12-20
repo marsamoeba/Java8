@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p47
+ * p47 
  * @author marsamoeba
  *
  */
