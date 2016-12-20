@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p55 二维数组 手动分配第二维内存
+ * p55 二维数组 手动分配第二维内存 
  * @author marsamoeba
  *
  */
