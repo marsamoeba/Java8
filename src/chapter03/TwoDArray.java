@@ -1,7 +1,7 @@
 package chapter03;
 
 /**
- * p54 二维数组
+ * p54 二维数组 
  * @author marsamoeba
  *
  */
