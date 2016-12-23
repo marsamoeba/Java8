@@ -14,7 +14,7 @@ public class NoBody {
 		j = 200;
 		
 		// 循环体为空
-		while (i++ < --j);
+		while (++i < --j);
 			
 		System.out.println("Midpoint is " + i);
 	}
