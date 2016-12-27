@@ -11,9 +11,9 @@ public class Break {
 		boolean t = true;
 		
 		// 三个嵌套代码块
-		fitst : {
-			second : {
-				third : {
+		first: {
+			second: {
+				third: {
 					System.out.println("Before the break.");
 					if (t)
 						break second; // 跳转到second标识的代码块末端
