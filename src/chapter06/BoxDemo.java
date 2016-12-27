@@ -2,7 +2,7 @@ package chapter06;
 
 
 /**
- * 简单的类
+ * p113 简单的类
  * @author marsamoeba
  *
  */
