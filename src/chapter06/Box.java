@@ -11,7 +11,7 @@ class Box {
 	double depth;
 	
 	void volume() {
-		System.out.println("Volume is ");
+		System.out.print("Volume is ");
 		System.out.println(width * height * depth);
 	}
 }
