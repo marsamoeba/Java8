@@ -10,8 +10,14 @@ class Box {
 	double height;
 	double depth;
 	
-	void volume() {
-		System.out.print("Volume is ");
-		System.out.println(width * height * depth);
+//	// BoxDemo3.java
+//	void volume() {
+//		System.out.print("Volume is ");
+//		System.out.println(width * height * depth);
+//	}
+	
+	// BoxDemo4.java
+	double volume() {
+		return width * height * depth;
 	}
 }
