@@ -20,4 +20,11 @@ class Box {
 	double volume() {
 		return width * height * depth;
 	}
+	
+	// BoxDemo5.java
+	void setDim(double w, double h, double d) {
+		width = w;
+		height = h;
+		depth = d;
+	}
 }
