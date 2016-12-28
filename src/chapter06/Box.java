@@ -10,7 +10,6 @@ class Box {
 	double height;
 	double depth;
 	
-	// 为box类添加方法
 	void volume() {
 		System.out.println("Volume is ");
 		System.out.println(width * height * depth);
