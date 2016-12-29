@@ -27,4 +27,12 @@ class Box {
 		height = h;
 		depth = d;
 	}
+	
+	// BoxDemo6.java
+	Box() {
+		System.out.println("Constructing Box");
+		width = 10;
+		height = 10;
+		depth = 10;
+	}
 }
