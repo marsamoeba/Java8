@@ -43,7 +43,8 @@ class Box {
 //		depth = d;
 //	}
 	
-	// this关键字
+	// this关键字  
+	// 可以在任何方法中使用this引用当前对象
 	Box(double w, double h, double d) {
 		this.width = w;
 		this.height = h;
