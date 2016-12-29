@@ -36,10 +36,17 @@ class Box {
 		depth = 10;
 	}
 	
-	// BoxDemo7.java 带参数的构造函数
+//	// BoxDemo7.java 带参数的构造函数
+//	Box(double w, double h, double d) {
+//		width = w;
+//		height = h;
+//		depth = d;
+//	}
+	
+	// this关键字
 	Box(double w, double h, double d) {
-		width = w;
-		height = h;
-		depth = d;
+		this.width = w;
+		this.height = h;
+		this.depth = d;
 	}
 }
