@@ -28,11 +28,18 @@ class Box {
 		depth = d;
 	}
 	
-	// BoxDemo6.java
+	// BoxDemo6.java 构造函数
 	Box() {
 		System.out.println("Constructing Box");
 		width = 10;
 		height = 10;
 		depth = 10;
+	}
+	
+	// BoxDemo7.java 带参数的构造函数
+	Box(double w, double h, double d) {
+		width = w;
+		height = h;
+		depth = d;
 	}
 }
