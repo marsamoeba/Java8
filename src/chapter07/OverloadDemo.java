@@ -19,8 +19,13 @@ public class OverloadDemo {
 		System.out.println("a and b: " + a + " " + b);
 	}
 	
-	double test (double a) {
-		System.out.println("double a: " + a);
-		return a * a;
+//	double test (double a) {
+//		System.out.println("double a: " + a);
+//		return a * a;
+//	}
+	
+	// p133
+	void test (double a) {
+		System.out.println("Inside test(double) a: " + a);
 	}
 }
