@@ -11,9 +11,9 @@ public class OverloadDemo {
 		System.out.println("No parameters");
 	}
 	
-	void test(int a) {
-		System.out.println("a: " + a);
-	}
+//	void test(int a) {
+//		System.out.println("a: " + a);
+//	}
 	
 	void test (int a, int b) {
 		System.out.println("a and b: " + a + " " + b);
