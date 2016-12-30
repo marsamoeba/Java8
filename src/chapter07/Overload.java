@@ -24,7 +24,7 @@ public class Overload {
 		ob.test();
 		ob.test(10, 20);
 		
-		ob.test(i);
+		ob.test(i);   //p133书中写错了  打印 Inside test(double) a: 88.0
 		ob.test(123.2);
 		
 	}
