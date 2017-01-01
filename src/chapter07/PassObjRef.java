@@ -21,6 +21,16 @@ class Test2 {
 		o.b /= 2;
 	}
 }
-class PassObjRef {
 
+class PassObjRef {
+	public static void main(String[] args) {
+		Test2 ob = new Test2(15, 20);
+		
+		System.out.println("ob.a and ob.b before call: " + ob.a + " " + ob.b);
+		
+		ob.meth(ob);
+		
+		// 传递参数引用调用 实参对象内容改变  30 10  
+		System.out.println("ob.a and ob.b before call: " + ob.a + " " + ob.b);
+	}
 }
