@@ -24,6 +24,7 @@ class AccessTest {
 		ob.a = 10;
 		ob.b = 20;
 		
+		// This is not OK and will cause an error
 		//ob.c = 100; // Error!
 		
 		ob.setc(100); // OK
