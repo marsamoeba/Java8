@@ -5,7 +5,7 @@ class Derived extends Protection {
 		System.out.println("derived constructor");
 	    System.out.println("n = " + n);
 
-	//  n_pri 访问修饰符是private的  只能在当前类内访问
+	//  n_pri 访问修饰符是private的  只能在当前类内访问 ，其同包子类无法访问。
 	//  System.out.println("n_pri = " + n_pri);
 
 	    System.out.println("n_pro = " + n_pro);
