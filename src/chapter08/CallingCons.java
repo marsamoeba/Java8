@@ -26,6 +26,6 @@ class C extends B3 {
 
 class CallingCons {
 	public static void main(String[] args) {
-		C c = new C();
+		//C c = new C();
 	}
 }
