@@ -5,7 +5,7 @@ package chapter09.p1;
  * @author marsamoeba
  *
  */
-class Protection {
+public class Protection {
 	int n = 1;
 	private int n_pri = 2;
 	protected int n_pro = 3;
