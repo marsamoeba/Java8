@@ -1,7 +1,7 @@
 package chapter15;
 
 /**
- * p392 块lambda
+ * p392 块lambda 求int类型的阶层
  * @author marsamoeba
  *
  */
